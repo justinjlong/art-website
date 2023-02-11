@@ -1,0 +1,9 @@
+@import '~vuetify/src/styles/styles.sass';
+
+$body-font-family: 'My Custom Font', cursive;
+
+$heading-font-family: $body-font-family, cursive;
+
+@each $heading, $style in $headings {
+    $headings: map-merge($headings, ($heading: map-merge($style, ('font-family': $heading-font-family))));
+}

@@ -1,12 +1,12 @@
 <template>
-  <p>about world</p>
+  <p>recent work</p>
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
 
 export default defineComponent({
-  name:'AboutView',
+  name:'RecentWorkView',
 
   components: {
   },
