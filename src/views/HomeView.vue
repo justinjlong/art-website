@@ -1,22 +1,15 @@
 <template>
-<div>
-  <v-row>
-    <v-col>
-      <p style="text-align:center;">hello world</p>
-    </v-col>
-  </v-row>
-</div>
-
-  
+  <div class="home">
+    <h1>This is a home page</h1>
+  </div>
 </template>
 
-<script lang="ts">
-import { defineComponent } from 'vue';
-
-export default defineComponent({
-  name: 'HomeView',
-
-  components: {
-  },
-});
-</script>
+<style>
+@media (min-width: 1024px) {
+  .home {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+}
+</style>
