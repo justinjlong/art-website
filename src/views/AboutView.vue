@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <p>I am an artist.</p>
+    <p>I draw things with pens.</p>
   </div>
 </template>
 
