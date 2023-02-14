@@ -18,7 +18,7 @@
                     </a>
                     <div class="caption">
                         <h3>Appalachian History</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Inspired by folk history and tradition.</p>
                     </div>
                 </div>
             </div>
@@ -28,7 +28,7 @@
                         <img src="@/assets/art/104k_buck.jpg" alt="Park" width="100%">
                     </a>
                     <div class="caption">
-                        <h3>The natural world</h3>
+                        <h3>The Natural World</h3>
                         <p>Large scale ball point pen drawings.</p>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                     </a>
                     <div class="caption">
                         <h3>Water Colors</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Pen, ink, water, and sometimes color.</p>
                     </div>
                 </div>
             </div>
