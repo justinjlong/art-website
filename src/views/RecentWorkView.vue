@@ -17,7 +17,7 @@
 <style>
 @media (min-width: 1024px) {
   .home {
-    min-height: 90vh;
+    min-height: 80vh;
     display: flex;
     flex-direction: row !important;
     align-items: center;

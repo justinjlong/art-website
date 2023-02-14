@@ -5,9 +5,11 @@ import { RouterLink, RouterView } from 'vue-router'
 <template>
   <header>
     <div class="wrapper">
-      <nav>
+      <nav class="mt-0">
+        <h3 class="mx-3">Justin J. Long - Art.</h3>
+        <!-- <hr width="95%" class="mx-1"> -->
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/contact">Contact</RouterLink>
         <RouterLink to="/recentWork">Recent Work</RouterLink>
       </nav>
     </div>
@@ -24,6 +26,10 @@ header {
   
 }
 
+.wrapper {
+  background-color: #fafafa;
+  padding: 0 1rem;
+}
 
 .logo {
   display: block;
