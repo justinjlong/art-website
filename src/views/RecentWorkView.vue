@@ -1,16 +1,5 @@
 <template>
-  <div class="home">
-        <div class="container">
-            <div class="row">
-                <div class="col-8">
-                    <img src="@/assets/art/104k_buck.jpg" width="600" class="ml-4 mt-5 pt-5">
-                </div>
-                <div class="col-4">
-                    <img src="@/assets/art/deerframe.jpg" width="400" class=" mx-4">
-                </div>
-            </div>
-
-        </div>
+    <div class="home">
     </div>
 </template>
 

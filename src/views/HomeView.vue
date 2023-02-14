@@ -13,8 +13,8 @@
 
             <div class="col-sm-6 col-md-4 ">
                 <div class="thumbnail">
-                    <a class="lightbox" href="@/assets/art/full_wooly_worm.jpg">
-                        <img src="@/assets/art/full_wooly_worm.jpg" alt="Park" width="100%">
+                    <a class="lightbox" href="@/assets/art/wooly_worm.jpg">
+                        <img src="@/assets/art/wooly_worm.jpg" alt="Park" width="100%">
                     </a>
                     <div class="caption">
                         <h3>Appalachian History</h3>
@@ -22,13 +22,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4">
+             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
                     <a class="lightbox" href="@/assets/art/104k_buck.jpg">
                         <img src="@/assets/art/104k_buck.jpg" alt="Park" width="100%">
                     </a>
                     <div class="caption">
-                        <h3>Warping the Natural world</h3>
+                        <h3>The natural world</h3>
                         <p>Large scale ball point pen drawings.</p>
                     </div>
                 </div>
@@ -36,14 +36,16 @@
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
                     <a class="lightbox" href="@/assets/art/wood.jpg">
-                        <img src="@/assets/art/wood.jpg" alt="Park" width="100%">
+                        <img src="@/assets/art/west.jpg" alt="Park" width="100%">
                     </a>
                     <div class="caption">
-                        <h3>Ball Point Pen Textures</h3>
+                        <h3>Water Colors</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                     </div>
                 </div>
             </div>
+           
+            
         </div>
 
     </div> 
