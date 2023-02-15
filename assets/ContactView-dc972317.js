@@ -1,1 +1,0 @@
-import{_ as t,o as e,c,a as o}from"./index-098713d0.js";const n={},s={class:"contact"},_=o("p",null,"justinjlongart@gmail.com",-1),a=[_];function r(i,l){return e(),c("div",s,a)}const u=t(n,[["render",r]]);export{u as default};
