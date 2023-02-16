@@ -1,6 +1,6 @@
 # art-website
 
-This template should help get you started developing with Vue 3 in Vite.
+navigate to justinjlong.com to view the webpage.
 
 ## Recommended IDE Setup
 
