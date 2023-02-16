@@ -58,11 +58,10 @@ export default {
   data() {
       return {
          welcomeText: "Welcome.",
-         aboutDescription: "I am a Pittsburgh based artist interested in exploring and reshaping the natural world though folk history and textures."
+         aboutDescription: "I am a Pittsburgh based artist interested in exploring and reimagining the natural world though folk history and textures."
       }
     }
 }
-
 </script>
 
 

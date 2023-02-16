@@ -1,8 +1,18 @@
 <template>
   <div class="contact">
-    <p>justinjlongart@gmail.com</p>
+    <p>{{ email }}</p>
   </div>
 </template>
+
+<script lang="ts">
+export default {
+  data() {
+      return {
+         email: "justinjlongart@gmail.com"
+      }
+    }
+}
+</script>
 
 <style>
 @media (min-width: 1024px) {
