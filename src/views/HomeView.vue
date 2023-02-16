@@ -13,9 +13,9 @@
 
             <div class="col-sm-6 col-md-4 ">
                 <div class="thumbnail">
-                    <a class="lightbox" href="@/assets/art/wooly_worm.jpg">
+                    <!-- <a class="lightbox" href="@/assets/art/wooly_worm.jpg"> -->
                         <img src="@/assets/art/wooly_worm.jpg" alt="Park" width="100%">
-                    </a>
+                    <!-- </a> -->
                     <div class="caption">
                         <h3>Appalachian History</h3>
                         <p>Inspired by folk history and tradition.</p>
@@ -24,9 +24,9 @@
             </div>
              <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="@/assets/art/104k_buck.jpg">
+                    <!-- <a class="lightbox" href="@/assets/art/104k_buck.jpg"> -->
                         <img src="@/assets/art/104k_buck.jpg" alt="Park" width="100%">
-                    </a>
+                    <!-- </a> -->
                     <div class="caption">
                         <h3>The Natural World</h3>
                         <p>Large scale ball point pen drawings.</p>
@@ -35,9 +35,9 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="@/assets/art/wood.jpg">
+                    <!-- <a class="lightbox" href="@/assets/art/wood.jpg"> -->
                         <img src="@/assets/art/west.jpg" alt="Park" width="100%">
-                    </a>
+                    <!-- </a> -->
                     <div class="caption">
                         <h3>Water Colors</h3>
                         <p>Pen, ink, water, and sometimes color.</p>
