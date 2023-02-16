@@ -1,6 +1,6 @@
 # art-website
 
-navigate to justinjlong.com to view the webpage.
+navigate to [](justinjlong.com) to view the webpage.
 
 ## Recommended IDE Setup
 
